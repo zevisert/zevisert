@@ -1,4 +1,4 @@
-### Hi there 👋
+<img width="100%" src="https://github.com/zevisert/zevisert/raw/master/github-readme.gif"/>
 
 <!--
 **zevisert/zevisert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
